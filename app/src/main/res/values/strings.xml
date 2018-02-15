@@ -9,13 +9,13 @@
 
     <string name="title_settings_ru">Настройки</string>
     <string name="title_schedule_ru">Расписание</string>
-    <string name="title_today_ru">СегодняТЕСТ</string>
+    <string name="title_today_ru">Сегодня</string>
 
     <!-- English -->
 
     <string name="title_schedule_eng">Schedule</string>
     <string name="title_settings_eng">Settings</string>
-    <string name="title_today_eng">TodayTEST</string>
+    <string name="title_today_eng">Today</string>
 
 
 </resources>
