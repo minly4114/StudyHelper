@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">StudyHelper</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Russian -->
+
+    <string name="title_settings_ru">Настройки</string>
+    <string name="title_schedule_ru">Расписание</string>
+    <string name="title_today_ru">Сегодня</string>
+
+    <!-- English -->
+
+    <string name="title_schedule_eng">Schedule</string>
+    <string name="title_settings_eng">Settings</string>
+    <string name="title_today_eng">Today</string>
+
+
 </resources>
