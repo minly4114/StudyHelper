@@ -5,6 +5,8 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
+    <string name="title_studyhelper">Study Helper</string>
+
     <!-- Russian -->
 
     <string name="title_settings_ru">Настройки</string>
@@ -16,6 +18,7 @@
     <string name="title_schedule_eng">Schedule</string>
     <string name="title_settings_eng">Settings</string>
     <string name="title_today_eng">Today</string>
+    <string name="loadcircle">loadCircle</string>
 
 
 </resources>
