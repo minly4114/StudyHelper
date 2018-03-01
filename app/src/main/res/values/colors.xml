@@ -8,5 +8,10 @@
 
     <!-- Green Theme -->
 
+    <color name="colorPrimary_green">#ccb800</color>
+
     <!-- Black Theme -->
+
+    <color name="colorPrimary_dark">#0882b9</color>
+
 </resources>

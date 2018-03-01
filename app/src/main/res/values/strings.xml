@@ -12,13 +12,16 @@
     <string name="title_settings_ru">Настройки</string>
     <string name="title_schedule_ru">Расписание</string>
     <string name="title_today_ru">Сегодня</string>
+    <string name="title_pickdesign_ru">Выберите дизайн приложения</string>
+    <string name="title_next_ru">Далее</string>
 
     <!-- English -->
 
     <string name="title_schedule_eng">Schedule</string>
     <string name="title_settings_eng">Settings</string>
     <string name="title_today_eng">Today</string>
-    <string name="loadcircle">loadCircle</string>
+    <string name="title_pickdesign_eng">Pick design of application</string>
+    <string name="title_name_eng">Next</string>
 
 
 </resources>
