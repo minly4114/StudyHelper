@@ -7,6 +7,6 @@
     <!-- Defaults dimens -->
 
     <dimen name="load_appNameText_size">54sp</dimen>
-    <dimen name="load_pickDesign_size">24sp</dimen>
+    <dimen name="load_text_size">24sp</dimen>
 
 </resources>
